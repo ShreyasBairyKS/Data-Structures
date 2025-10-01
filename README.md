@@ -19,7 +19,7 @@ This repository includes implementations of fundamental data structures such as:
 - **Tries / Prefix Trees**  
 - **Others** (e.g. Disjoint Set / Union-Find, Segment Tree, etc.)
 
-Each implementation includes basic operations (insert, delete, search, traversal, etc.) and sometimes test files or example usage.
+Each implementation includes basic operations (insert, delete, search, traversal, etc.) and sometimes test files or example usage.   
 
 ---
 

@@ -12,7 +12,7 @@ This repository includes implementations of fundamental data structures such as:
 - **Linked Lists** (Singly, Doubly, Circular)     
 - **Stacks & Queues**  
 - **Trees** (Binary Tree, Binary Search Tree, AVL, etc.)  
-- **Heaps / Priority Queues**  
+- **Heaps / Priority Queues** 
 - **Hash Tables / Maps**  
 - **Graphs** (Adjacency List, Adjacency Matrix)  
 - **Tries / Prefix Trees**  

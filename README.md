@@ -10,7 +10,7 @@ Intended as a learning resource and reference for students and developers.
 This repository includes implementations of fundamental data structures such as:
 
 - **Arrays / Dynamic Arrays**  
-- **Linked Lists** (Singly, Doubly, Circular)  
+- **Linked Lists** (Singly, Doubly, Circular)     
 - **Stacks & Queues**  
 - **Trees** (Binary Tree, Binary Search Tree, AVL, etc.)  
 - **Heaps / Priority Queues**  
